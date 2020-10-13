@@ -1,0 +1,7 @@
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\obj\Debug\Recipe1.csprojAssemblyReference.cache
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\obj\Debug\Recipe1.csproj.CoreCompileInputs.cache
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\bin\Debug\Recipe1.exe.config
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\bin\Debug\Recipe1.exe
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\bin\Debug\Recipe1.pdb
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\obj\Debug\Recipe1.exe
+F:\github\MultiThread-csharp-Toutiao\MultiThread\Charpter1\Recipe1\obj\Debug\Recipe1.pdb

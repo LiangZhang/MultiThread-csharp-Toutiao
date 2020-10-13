@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultiThread", "MultiThread", "{8D3053EA-2EBA-46A6-82C9-B94323F18B2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter1", "Chapter1", "{43C92C01-7A5A-4CF6-A299-077B0FE939F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipe1", "MultiThread\Charpter1\Recipe1\Recipe1.csproj", "{4E8B460D-715A-4FE6-B990-F5EA34292E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8B460D-715A-4FE6-B990-F5EA34292E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8B460D-715A-4FE6-B990-F5EA34292E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8B460D-715A-4FE6-B990-F5EA34292E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8B460D-715A-4FE6-B990-F5EA34292E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43C92C01-7A5A-4CF6-A299-077B0FE939F7} = {8D3053EA-2EBA-46A6-82C9-B94323F18B2E}
+		{4E8B460D-715A-4FE6-B990-F5EA34292E71} = {43C92C01-7A5A-4CF6-A299-077B0FE939F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D91DD4-0182-4953-BEAE-841094C9D8E6}
+	EndGlobalSection
+EndGlobal
